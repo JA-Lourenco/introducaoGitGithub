@@ -2,8 +2,8 @@
 
 #### Organização Instrutora
 
-Digital Innovation One Inc.
+*Digital Innovation One Inc.*
 
 #### Evento 
 
-Take Blip Web Developer Bootcamp
+*Take Blip Web Developer Bootcamp*
